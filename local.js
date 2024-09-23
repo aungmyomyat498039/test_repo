@@ -1,1 +1,1 @@
-const local = "HI";
+const local = "HI local";
