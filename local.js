@@ -1,3 +1,2 @@
-
-const v1="ths";
-const local = "HI local";
+const local = "HI";
+const pp = "This is AMM"
